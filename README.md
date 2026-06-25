@@ -1,12 +1,10 @@
-The repository consists of :
-|
-| ---> notebook.ipynb # Notebook with all the codes
-| ---> notebook_with_output.ipynb # Notebook with codes and output added later due to time constraint
-| ---> data    # Image datasets
-        |
-        |---> seg_pred 
-        |---> seg_test
-        |---> seg_train
+### Folder Structure :
+1. notebook.ipynb # Notebook with all the codes
+2. notebook_with_output.ipynb # Notebook with codes and output added later due to time constraint
+3. data    # Image datasets
+        3.a seg_pred 
+        3.b seg_test
+        3.c seg_train
 
 
 
